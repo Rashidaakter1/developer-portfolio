@@ -58,4 +58,30 @@ section{
     padding: 10px 40px;
     border-radius: 10px;
 }
+.experience{
+    display: flex;
+}
 
+.item{
+
+    padding: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 30%;
+    box-shadow: 5px 5px 20px gray;
+    border-left: 10px solid;
+    border-image: linear-gradient(orange,red);
+    border-image-slice: 1;
+}
+h2{
+    font-size:xx-large;
+}
+.ex{
+    background-image: url(images/exp-bg.png);
+    background-position: left;
+    background-repeat: no-repeat;
+}
+.foot{
+    margin-top: 10px;
+    text-align: center;
+}
