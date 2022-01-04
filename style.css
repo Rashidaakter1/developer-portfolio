@@ -38,3 +38,24 @@ section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+.dream-big{
+    display: flex;
+    margin-top: 15%;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.half-width{
+    width: 50%;
+    padding-right: 5%;
+}
+.half-width img{
+    width: 80%;
+}
+.cv{
+    text-decoration:none ;
+    background-image: linear-gradient(orange,red);
+    padding: 10px 40px;
+    border-radius: 10px;
+}
+
